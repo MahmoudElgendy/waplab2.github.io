@@ -1,0 +1,21 @@
+body {
+            background-color: rgba(0, 0, 0, 0.75);
+            color: white;
+            font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+            font-size: small;
+            font-weight: 1000;
+            
+        }
+
+        h1,
+        h2,
+        h3,
+        h4,
+        h5,
+        h6 {
+            color: rgba(98, 98, 148, 0.75);
+        }
+
+        .hoppies{
+            color: yellow;
+        }
